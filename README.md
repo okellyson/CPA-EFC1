@@ -1,4 +1,4 @@
-# LFA-EFC1
+# CPA-EFC1
 
 Este repositório se destina à realização das atividades relacionadas ao primeiro EFC da disciplina de Complexidade e Projeto de Algoritmos durante o primeiro semestre letivo de 2022 na Universidade Federal de Lavras.
 
