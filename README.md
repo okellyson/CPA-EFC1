@@ -1,1 +1,12 @@
 # LFA-EFC1
+
+Este repositório se destina à realização das atividades relacionadas ao primeiro EFC da disciplina de Complexidade e Projeto de Algoritmos durante o primeiro semestre letivo de 2022 na Universidade Federal de Lavras.
+
+### Autores
+
+- Kellyson Santos da Silva (201820366)
+- Renan ...
+
+### Sobre
+
+As respostas das questões estão nos blocks de execução dos algoritmos dentro do prório Notebook.
