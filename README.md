@@ -5,7 +5,7 @@ Este repositório se destina à realização das atividades relacionadas ao prim
 ### Autores
 
 - Kellyson Santos da Silva (201820366)
-- Renan ...
+- Renan Fernandes Guimarães (201711917)
 
 ### Sobre
 
