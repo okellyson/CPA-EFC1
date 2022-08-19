@@ -9,4 +9,4 @@ Este repositório se destina à realização das atividades relacionadas ao prim
 
 ### Sobre
 
-As respostas das questões estão nos blocks de execução dos algoritmos dentro do prório Notebook.
+As respostas das questões está no BLOCO DE TEXTO logo abaixo da PERGUNTA
